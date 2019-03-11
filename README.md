@@ -151,7 +151,7 @@ KumuluzEE Go Discovery is also fully compatible with clusters and cloud-native p
 
 ## Changelog
 
-Recent changes can be viewed on Github on the  [Releases Page](https://github.com/kumuluz/kumuluzee/releases)
+Recent changes can be viewed on Github on the  [Releases Page](https://github.com/kumuluz/kumuluzee-go-discovery/releases)
 
 ## Contribute
 
