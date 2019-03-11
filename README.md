@@ -12,7 +12,7 @@ You can `go get` this package:
 $ go get github.com/kumuluz/kumuluzee-go-discovery/discovery
 ```
 
-Note that `kumuluzee-go-discovery` depends on [kumuluzee-go-config/config](kumuluzee-go-config/config) package, therefore when we `go get` discovery package, config package is downloaded as well.
+Note that `kumuluzee-go-discovery` depends on [kumuluzee-go-config/config](https://github.com/kumuluz/kumuluzee-go-config) package, therefore when we `go get` discovery package, config package is downloaded as well.
 
 ## Setup
 
